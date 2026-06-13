@@ -9,6 +9,7 @@ New-LXMusic
 
 3.增加歌词翻译歌词可以左右拖动双击歌词区域自动归位
 
-4.安装依赖，直接在根目录执行npm install，或运行脚本install-deps.bat等待安装完成后运行newlx-music.exe
+4.安装依赖，直接在根目录执行npm install，或运行脚本install-deps.bat等待安装完成后运行newlx-music.exe， Node.js >= 22
 
-注：Node.js >= 22
+
+注：没有Node环境就在Releases中下载node_modules.rar，然后解压到根目录下
